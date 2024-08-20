@@ -177,3 +177,4 @@ D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\obj\Debug\net8.0-windows10.0.1904
 D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ExemploHttp.sourcelink.json

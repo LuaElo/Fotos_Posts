@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3aieloah_luara\\pam2\\exemplohttp\\exemplohttp\\views\\postsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\views\\postsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3aieloah_luara\\pam2\\exemplohttp\\exemplohttp\\views\\photosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\views\\photosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3aieloah_luara\\pam2\\exemplohttp\\exemplohttp\\viewmodels\\postsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\viewmodels\\postsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3aieloah_luara\\pam2\\exemplohttp\\exemplohttp\\views\\photosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3aieloah_luara\\pam2\\exemplohttp\\exemplohttp\\viewmodels\\photosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\viewmodels\\photosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3aieloah_luara\\pam2\\exemplohttp\\exemplohttp\\viewmodels\\postsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\viewmodels\\postsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3aieloah_luara\\pam2\\exemplohttp\\exemplohttp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "PostsView.xaml",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PostsView.xaml",
+              "RelativeDocumentMoniker": "ExemploHttp\\Views\\PostsView.xaml",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PostsView.xaml",
+              "RelativeToolTip": "ExemploHttp\\Views\\PostsView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-20T15:28:04.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PostsViewModel.cs",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\ViewModels\\PostsViewModel.cs",
               "RelativeDocumentMoniker": "ExemploHttp\\ViewModels\\PostsViewModel.cs",
@@ -67,59 +84,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PhotosViewModel.cs",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\ViewModels\\PhotosViewModel.cs",
               "RelativeDocumentMoniker": "ExemploHttp\\ViewModels\\PhotosViewModel.cs",
               "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\ViewModels\\PhotosViewModel.cs",
               "RelativeToolTip": "ExemploHttp\\ViewModels\\PhotosViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAA2AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAD4vx8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T15:39:30.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PhotosView.xaml.cs",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PhotosView.xaml.cs",
               "RelativeDocumentMoniker": "ExemploHttp\\Views\\PhotosView.xaml.cs",
               "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PhotosView.xaml.cs",
               "RelativeToolTip": "ExemploHttp\\Views\\PhotosView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T14:33:46.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PhotosView.xaml",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PhotosView.xaml",
               "RelativeDocumentMoniker": "ExemploHttp\\Views\\PhotosView.xaml",
               "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PhotosView.xaml",
               "RelativeToolTip": "ExemploHttp\\Views\\PhotosView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-20T14:13:50.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Styles.xaml",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Resources\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "ExemploHttp\\Resources\\Styles\\Styles.xaml",
               "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Resources\\Styles\\Styles.xaml",
               "RelativeToolTip": "ExemploHttp\\Resources\\Styles\\Styles.xaml",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAADIAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAABBwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-13T15:04:02.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\MauiProgram.cs",
               "RelativeDocumentMoniker": "ExemploHttp\\MauiProgram.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Colors.xaml",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\Resources\\Styles\\Colors.xaml",
               "RelativeDocumentMoniker": "ExemploHttp\\Resources\\Styles\\Colors.xaml",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LabelRenderer.java",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\obj\\Debug\\net8.0-android\\android\\src\\crc6477f0d89a9cfd64b1\\LabelRenderer.java",
               "RelativeDocumentMoniker": "ExemploHttp\\obj\\Debug\\net8.0-android\\android\\src\\crc6477f0d89a9cfd64b1\\LabelRenderer.java",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StepperRenderer.java",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\obj\\Debug\\net8.0-android\\android\\src\\crc6477f0d89a9cfd64b1\\StepperRenderer.java",
               "RelativeDocumentMoniker": "ExemploHttp\\obj\\Debug\\net8.0-android\\android\\src\\crc6477f0d89a9cfd64b1\\StepperRenderer.java",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MauiTextView.java",
               "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\ExemploHttp\\ExemploHttp\\obj\\Debug\\net8.0-android\\android\\src\\crc6452ffdc5b34af3a0f\\MauiTextView.java",
               "RelativeDocumentMoniker": "ExemploHttp\\obj\\Debug\\net8.0-android\\android\\src\\crc6452ffdc5b34af3a0f\\MauiTextView.java",

@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-20T15:14:10.791</Modified>
+      <Modified>2024-08-20T15:27:07.357</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExemploHttp.dll">
       <PackagePath>ExemploHttp.dll</PackagePath>
-      <Modified>2024-08-20T15:14:10.523</Modified>
+      <Modified>2024-08-20T15:27:07.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ExemploHttp.exe</PackagePath>
-      <Modified>2024-08-20T15:14:10.542</Modified>
+      <Modified>2024-08-20T15:27:07.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\3aiEloah_Luara\PAM2\ExemploHttp\ExemploHttp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
