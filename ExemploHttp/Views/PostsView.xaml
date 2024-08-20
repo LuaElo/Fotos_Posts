@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExemploHttp.Views.PostsView"
+             Title="PostsView">
+    <VerticalStackLayout>
+        <Button Command="{Binding getPostsCommmand}" Text="Carregar postagems " HorizontalOptions="Center"/>
+            <ScrollView>
+                <CollectionView ItemsSource="{Binding Posts}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <VerticalStackLayout Spacing="15" Padding="30" HorizontalOptions="Center">
+                                <Label 
+                                      Text="Title" FontSize="Title"  />
+                                <Label FontSize="Title" 
+                                        Text="{Binding Title}"/>
+                                <Label
+                                      Text="{Binding Body}"/>
+                                <Button Text="Curtir" HorizontalOptions="Start" />
+                            </VerticalStackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>
